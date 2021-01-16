@@ -15,7 +15,7 @@ public class TestJava {
     @Test
     public void hij()
     {
-        System.out.println("second test");
+        System.out.println("third test");
     }
 
 }

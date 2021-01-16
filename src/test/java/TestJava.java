@@ -22,5 +22,10 @@ public class TestJava {
     {
         System.out.println("lets see fast forward merge or 3 way merge");
     }
+    @Test
+    public void qrs()
+    {
+        System.out.println("trying 3 way merge");
+    }
 
 }

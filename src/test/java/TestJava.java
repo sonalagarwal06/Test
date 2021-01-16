@@ -1,10 +1,7 @@
 import org.testng.annotations.Test;
 
 public class TestJava {
- /*   public static void main(String args[])
-    {
 
-    }*/
     @Test
     public void abc()
     {
@@ -15,4 +12,10 @@ public class TestJava {
     {
         System.out.println("second test");
     }
+    @Test
+    public void hij()
+    {
+        System.out.println("third test");
+    }
+
 }

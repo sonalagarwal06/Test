@@ -28,4 +28,9 @@ public class TestJava {
         System.out.println("trying 3 way merge");
     }
 
+    @Test
+    public void nop()
+    {
+        System.out.println("first commit in feature 2 branch");
+    }
 }

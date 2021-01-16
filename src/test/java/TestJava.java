@@ -17,5 +17,10 @@ public class TestJava {
     {
         System.out.println("third test");
     }
+    @Test
+    public void klm()
+    {
+        System.out.println("lets see fast forward merge or 3 way merge");
+    }
 
 }
